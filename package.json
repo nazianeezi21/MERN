@@ -4,8 +4,8 @@
   "description": "social network for develpoers",
   "main": "server.js",
   "scripts": {
-    "start":"node server",
-    "server":"nodemon server"
+    "start": "node server",
+    "server": "nodemon server"
   },
   "author": "nazia",
   "license": "MIT",
